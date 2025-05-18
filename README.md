@@ -2,7 +2,7 @@
 <h3 align="center">C++ & Java Developer | Building Scalable Web Solutions 🚀 Backend Engineer | Spring Boot | Problem Solver</h3>
 
 
-- 🔭 I’m currently working on [Carrier-Blink](https://github.com/priyanshu442004/Career-Blink)
+- 🔭 I’m currently working on [Carrier-Blink](https://github.com/HarshitVarshneyv/Career-Blink)
 
 - 👯 I’m looking to collaborate on **Back-End Functional Web App**
 
