@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Varshney</h1>
-<h3 align="center">C++ & Java Developer | Building Scalable Web Solutions 🚀 Backend Engineer | Spring Boot | Problem Solver</h3>
+<h3 align="center">C++ & Java Developer | Building Scalable Web Solutions 🚀 Backend Engineer | Spring Boot | React Engineer | Problem Solver</h3>
 
 
 - 🔭 I’m currently working on [Carrier-Blink](https://github.com/HarshitVarshneyv/Career-Blink)
