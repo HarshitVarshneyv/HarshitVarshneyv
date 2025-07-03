@@ -2,7 +2,7 @@
 <h3 align="center">C++ & Java Developer | Building Scalable Web Solutions 🚀 Backend Engineer | Spring Boot | React Engineer | Problem Solver</h3>
 
 
-- 🔭 I’m currently working for **A bangalore based B2B Product based company as Java FullStack Developer [SpringBoot & React.js]**
+- 🔭 I’m currently working for **A bangalore based B2B Product based company [SpendTech] as Java FullStack Developer [SpringBoot & React.js] Link : [https://fexstack.com]**
 
 - 👯 I’m looking to collaborate on **Back-End Functional Web App**
 
